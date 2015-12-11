@@ -4,13 +4,11 @@ body{
   margin: 0 auto;
   box-sizing: border-box;
 }
-
 #hSec{
   background-color: #102232;
   width: 100%;
   height: 30px;
 }
-
 #mSec{
   margin: 0 auto;
   height: 100%;
@@ -22,30 +20,19 @@ body{
   width: 325px;
   height: 85px;
 }
-.dGbox{
-  width: 80px;
-  height: 80px;
-  float: left;
-  margin-top: 40vh;
+.dG{
   background-color: #2c9913;
-  text-align: center;
 }
-.lGbox{
-  width: 80px;
-  height: 80px;
-  float: left;
-  margin-top: 40vh;
+.lG{
   background-color: #13ab28;
-  text-align: center;
 }
-
 .box{
   width: 80px;
   height: 80px;
   float: left;
   margin-top: 40vh;
+  text-align: center;
 }
-
 #fSec{
   position: fixed;
   left: 0px;
